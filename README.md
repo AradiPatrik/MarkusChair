@@ -1,10 +1,8 @@
 # MarkusChair
 Hey there! 👋
-I see you found my chair. Great! Feel free to try it, use it for a day if I'm not in the office. Here's an introduction of it:
+I see you found my chair. Great! **Feel free to try it**, use it for a day if I'm not in the office.
 
-The IKEA Markus is an ideal blend of comfort, support, and affordability. Designed with long working hours in mind, it offers excellent lumbar support and an adjustable headrest, ensuring your back stays protected and comfortable throughout the day. Its sleek design fits any office aesthetic, and its durability means you get great value for your money.
-
-Make sure to tinker with it, here are all the possible adjustments you can make (don't worry I can quickly reset it to the way I like it)
+Make sure to *tinker with it*, here are all the possible adjustments you can make (don't worry I can quickly reset it to the way I like it)
 ![Adjustments](Adjustments.png)
 
 ## If you like it I have great news for you!
